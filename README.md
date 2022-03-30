@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahul.dhankar@mvn.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ob5bIOrFA6OHHO-647mwSQQr3bwf9_va/view?usp=sharing](https://drive.google.com/file/d/1ob5bIOrFA6OHHO-647mwSQQr3bwf9_va/view?usp=sharing)
+- 📄 curriculam vitae [https://drive.google.com/file/d/1ob5bIOrFA6OHHO-647mwSQQr3bwf9_va/view?usp=sharing](https://drive.google.com/file/d/1ob5bIOrFA6OHHO-647mwSQQr3bwf9_va/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuldhankar&show_icons=true&locale=en" alt="rahuldhankar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldhankar&" alt="rahuldhankar" /></p>
-[your link here]()
+[Thesis](https://drive.google.com/file/d/1tJaTFg0KG-pSI4S6nG67GfcTdpANUlyb/view?usp=sharing)
