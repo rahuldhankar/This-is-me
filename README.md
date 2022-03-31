@@ -10,8 +10,8 @@
 - 📫 How to reach me **rahul.dhankar@mvn.edu.in**
 
 - 📄 curriculam vitae [https://drive.google.com/file/d/1ob5bIOrFA6OHHO-647mwSQQr3bwf9_va/view?usp=sharing](https://drive.google.com/file/d/1ob5bIOrFA6OHHO-647mwSQQr3bwf9_va/view?usp=sharing)
-- # M.SC. AGRONOMY
-- # A.S.R.B. NET - 2021 ( 57.11%) 
+- #### M.SC. AGRONOMY
+- #### A.S.R.B. NET - 2021 ( 57.11%) 
   (https://drive.google.com/file/d/1vL96OvkSMGbPhrMD3ZVYR9t-EwylWJMi/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
